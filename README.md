@@ -1,2 +1,2 @@
 # ts-carousel
-A simple image carousel in typescript
+A simple image carousel in react + typescript
